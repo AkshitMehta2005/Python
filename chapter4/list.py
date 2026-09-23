@@ -11,3 +11,5 @@
 b = [1,2,3.5,"akshit"]
 b[0] = "Akshit"
 print(b)
+
+
