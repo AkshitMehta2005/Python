@@ -1,4 +1,4 @@
-#  it is mutable and contain duplicate key ,unorder,it is indexed
+#  it is mutable and contain duplicate key ,unordered,it is indexed
 
 data = {
     "name":"Akshit",

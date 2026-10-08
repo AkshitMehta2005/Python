@@ -22,11 +22,7 @@
 #         print("Prime Number")
         
         
-n = int(input("Enter the number: "))
-prod = 1
-for i in range(1,n+1):
-    prod = i*prod
-    
-print(prod)
+# 
+
     
        

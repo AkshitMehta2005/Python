@@ -1,7 +1,10 @@
-a = 5
+# a = 5
 
-print(type(a))
+# print(type(a))
 
-b = True
+# b = True
 
-print(type(b))
+# print(type(b))
+
+
+

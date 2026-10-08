@@ -13,8 +13,10 @@ print(l)
 l.insert(1,3000)
 print(l)
 
-l.pop(0)
+l.pop(0)  # it remove it form any index wise  here is 0 index element remove 
 print(l)
 
 l.remove(43) 
 print(l)
+
+

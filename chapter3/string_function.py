@@ -2,6 +2,7 @@ letter = "Outliier"
 
 print(len(letter))
 
+
 print(letter.endswith("lier"))
 print(letter.startswith("Out"))
 print(letter.count("i"))
